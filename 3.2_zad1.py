@@ -18,3 +18,5 @@ print("W sumie kupuje", sum(quantity for quantity in products_q), "produktow")
 
 print(lista_zakupow["piekarnia"])
 print(lista_zakupow["warzywniak"])
+
+print("Macieju, pozdrawiam i zycze udanego tygodnia!")
